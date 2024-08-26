@@ -35,7 +35,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/project-management-api.git
+git clone https://github.com/themidix/project-management-app.git
 cd project-management-api
 Install dependencies:
 
